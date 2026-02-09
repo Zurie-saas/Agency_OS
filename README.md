@@ -353,16 +353,6 @@ Here's how you can contribute:
 - [Make a pull request](https://github.com/Zurie-saas/Agency_OS/pulls) to add new features/make quality-of-life
   improvements/fix bugs.
 
-## 🙏 Thanks To
-
-Zurie Studio was created based on Zurie Studio (by Bryant Gillespie ([@bryantgillespie](https://twitter.com/bryantgillespie)). But big thank yous
-are owed to...
-
-- [@rijkvanzanten](https://github.com/rijkvanzanten) and [@benhaynes](https://github.com/benhaynes) for building
-  Directus and including me on the journey.
-- [@atinux](https://github.com/Atinux) and [@alexchopin](https://github.com/alexchopin) for creating the Nuxt framework.
-- [@intevel](https://github.com/Intevel) and [@becem-gharbi](https://github.com/becem-gharbi) for each of their separate
-  `nuxt-directus` modules which served as source of inspiration.
 ---
 
 # 🚀 Informations ZURIE Studio Tech Dakar
