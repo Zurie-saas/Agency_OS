@@ -349,8 +349,8 @@ Zurie Studio is a community driven project so we'd love to have your contributio
 
 Here's how you can contribute:
 
-- [Open an issue](https://github.com/directus-community/agency-os/issues) if you believe you've encountered a bug.
-- [Make a pull request](https://github.com/directus-community/agency-os/pulls) to add new features/make quality-of-life
+- [Open an issue](https://github.com/Zurie-saas/Agency_OS/issues) if you believe you've encountered a bug.
+- [Make a pull request](https://github.com/Zurie-saas/Agency_OS/pulls) to add new features/make quality-of-life
   improvements/fix bugs.
 
 ## 🙏 Thanks To
