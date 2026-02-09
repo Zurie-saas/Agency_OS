@@ -136,5 +136,8 @@ useServerSeoMeta({
 				</div>
 			</div>
 		</section>
+		
+		<!-- Informations ZURIE -->
+		<ZurieInfo />
 	</BlockContainer>
 </template>

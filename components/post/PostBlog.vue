@@ -84,5 +84,8 @@ defineProps<PostBlogProps>();
 		<main class="w-full max-w-4xl mx-auto mt-12">
 			<TypographyProse ref="article" :content="page?.content" />
 		</main>
+		
+		<!-- Informations ZURIE -->
+		<ZurieInfo :compact="true" />
 	</BlockContainer>
 </template>

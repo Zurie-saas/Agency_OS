@@ -7,5 +7,8 @@
 			<GlobalSearch placeholder="Search for articles" :collections="['help_articles']" class="flex" />
 		</header>
 		<HelpCollectionsIndex />
+		
+		<!-- Informations ZURIE -->
+		<ZurieInfo :compact="true" />
 	</BlockContainer>
 </template>

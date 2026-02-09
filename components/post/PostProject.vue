@@ -58,5 +58,10 @@ const galleryItems = computed(() => {
 				</div>
 			</aside>
 		</BlockContainer>
+		
+		<!-- Informations ZURIE -->
+		<BlockContainer>
+			<ZurieInfo :compact="true" />
+		</BlockContainer>
 	</div>
 </template>

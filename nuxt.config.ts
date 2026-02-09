@@ -102,9 +102,10 @@ export default defineNuxtConfig({
 	},
 
 	// Sitemap Configuration - https://nuxtseo.com/sitemap/getting-started/how-it-works
-	sitemap: {
-		sources: ['/api/_sitemap-urls'],
-	},
+	// Temporairement désactivé pour éviter l'erreur de compatibilité
+	// sitemap: {
+	// 	sources: ['/api/_sitemap-urls'],
+	// },
 
 	postcss: {
 		plugins: {

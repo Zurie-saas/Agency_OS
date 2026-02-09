@@ -147,6 +147,19 @@ const { data: form } = await useAsyncData(
 					</NuxtLink>
 					.
 				</span>
+				<span class="block mt-2 text-gray-600 dark:text-gray-400">
+					<Icon name="material-symbols:rocket-launch" class="w-4 h-4 text-primary" />
+					Informations powered by
+					<NuxtLink
+						href="https://zurie.fr"
+						target="_blank"
+						rel="noopener noreferrer"
+						class="border-b dark:border-b-gray-700 hover:text-primary"
+					>
+						ZURIE Studio Tech Dakar
+					</NuxtLink>
+					.
+				</span>
 			</div>
 		</div>
 	</footer>

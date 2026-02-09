@@ -46,6 +46,9 @@ const props = defineProps<PostVideoProps>();
 					<TypographyProse ref="article" :content="page?.content" />
 				</article>
 			</main>
+			
+			<!-- Informations ZURIE -->
+			<ZurieInfo :compact="true" />
 		</BlockContainer>
 	</div>
 </template>

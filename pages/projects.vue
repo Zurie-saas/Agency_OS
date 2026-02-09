@@ -119,5 +119,8 @@ useServerSeoMeta({
 				</NuxtLink>
 			</div>
 		</section>
+		
+		<!-- Informations ZURIE -->
+		<ZurieInfo />
 	</BlockContainer>
 </template>
